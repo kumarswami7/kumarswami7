@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Kumar Swami Naik
 
-<!--
-**kumarswami7/kumarswami7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Engineer & MERN Stack Developer
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Building ExamPulse
+- 🌱 Learning AI, ML & Data Science
+- 💻 MERN Stack Developer
+- 🎯 Goal: Become an AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kumarswami7&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarswami7&layout=compact)
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/kethavath-kumara-swami-naik
